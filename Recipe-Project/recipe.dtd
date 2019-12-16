@@ -1,0 +1,94 @@
+<?xml encoding="UTF-8"?>
+
+<!-- Recipes is the rootnode,recipe is the childelement of rootnode(Recipes) -->
+<!ELEMENT Recipes (recipe)+>
+<!ATTLIST Recipes
+ xmlns CDATA #FIXED ''>
+
+<!--!Element recipe defines that the recipe element must contain seven elements: "rname,chef,photo,servings,ingredients,instruction,hints" --> 
+
+<!ELEMENT recipe (rname,chef,photo,servings,ingredients,instruction,
+                  hints)>
+<!ATTLIST recipe
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT rname defines the rname element to be of type "#PCDATA" -->  
+<!ELEMENT rname (#PCDATA)>
+<!ATTLIST rname
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT chef defines the chef element to be of type "#PCDATA" -->
+<!ELEMENT chef (#PCDATA)>
+<!ATTLIST chef
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT photo defines the photo element to be of type "#PCDATA" --> 
+<!ELEMENT photo (#PCDATA)>
+<!ATTLIST photo
+  xmlns CDATA #FIXED ''>
+
+<!--!Element servings defines that the servings element must contain two elements: "heading,count" -->   
+<!ELEMENT servings (heading,count)>
+<!ATTLIST servings
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT heading defines the heading element to be of type "#PCDATA" --> 
+<!ELEMENT heading (#PCDATA)>
+<!ATTLIST heading
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT count defines the count element to be of type "#PCDATA" --> 
+<!ELEMENT count (#PCDATA)>
+<!ATTLIST count
+  xmlns CDATA #FIXED ''>
+
+<!--!Element ingredients defines that the ingredients element must contain two elements: "heading,component" -->    
+<!ELEMENT ingredients (heading,component)>
+<!ATTLIST ingredients
+  xmlns CDATA #FIXED ''>
+
+
+<!--!Element component defines that the component element must contain one element: "list" -->  
+<!ELEMENT component (list)+>
+<!ATTLIST component
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT list defines the list element to be of type "#PCDATA" --> 
+<!ELEMENT list (#PCDATA)>
+<!ATTLIST list
+  xmlns CDATA #FIXED ''>
+
+<!--!Element instruction defines that the instruction element must contain two elements: "procedure,steps" -->   
+<!ELEMENT instruction (procedure,steps)>
+<!ATTLIST instruction
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT procedure defines the procedure element to be of type "#PCDATA" -->   
+<!ELEMENT procedure (#PCDATA)>
+<!ATTLIST procedure
+  xmlns CDATA #FIXED ''>
+  
+<!--!Element steps defines that the steps element must contain one element: "step" -->   
+<!ELEMENT steps (step)+>
+<!ATTLIST steps
+  xmlns CDATA #FIXED ''>
+  
+<!-- !ELEMENT step defines the step element to be of type "#PCDATA" -->   
+<!ELEMENT step (#PCDATA)>
+<!ATTLIST step
+  xmlns CDATA #FIXED ''>  
+  
+<!--!Element hints defines that the hints element must contain two elements: "heading,content" --> 
+<!ELEMENT hints (heading,content)>
+<!ATTLIST hints
+  xmlns CDATA #FIXED ''>
+
+<!-- !ELEMENT content defines the content element to be of type "#PCDATA" --> 
+<!ELEMENT content (#PCDATA)>
+<!ATTLIST content
+  xmlns CDATA #FIXED ''>
+
+
+
+
+

@@ -1,0 +1,18 @@
+<!ELEMENT movielist ( html, tdescrptn+ )>
+<!ELEMENT html ( img )>
+<!ATTLIST html xmlns CDATA #REQUIRED>
+
+<!ELEMENT img EMPTY>
+<!ATTLIST img src CDATA #REQUIRED>
+
+<!ELEMENT tdescrptn ( tname, addr, movies )>
+<!ELEMENT tname ( #PCDATA )>
+<!ELEMENT addr ( #PCDATA )>
+<!ELEMENT movies ( movie+ )>
+<!ELEMENT movie ( mname, ratings, rated, showtimes )>
+<!ELEMENT mname ( #PCDATA )>
+<!ELEMENT rated ( #PCDATA )>
+<!ELEMENT ratings ( #PCDATA )>
+<!ELEMENT showtimes ( shw+ )>
+<!ELEMENT shw ( #PCDATA )>
+

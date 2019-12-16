@@ -1,0 +1,36 @@
+tdescrptn{
+	display: grid;
+    margin: 10px;
+	margin-bottom: 10px;
+    background-color:#DFFEF9;
+	border-style: solid;
+    border-color:#0000FF;
+	font-style :arial;
+}
+movies{
+	display :grid;
+}
+addr{
+	color : #008000;
+}
+tname{
+	color :red;
+	font-size :140%;
+	
+}
+showtimes{
+	display :grid;
+	color:purple;
+	font-size : 85%;
+	margin-left: 15px;
+}
+
+ratings{
+	display :grid;
+	color: #FF0000;
+}
+mname{
+	display :grid;
+	color:blue;
+	font-size: 100%;
+}

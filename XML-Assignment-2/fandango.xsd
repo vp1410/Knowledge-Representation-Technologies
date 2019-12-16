@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="fandangoimage.xsd" namespace="http://www.w3.org/1999/xhtml" />
+  <xs:element name="movielist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://www.w3.org/1999/xhtml" ref="q1:html" />
+        <xs:element maxOccurs="unbounded" name="tdescrptn">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tname" type="xs:string" />
+              <xs:element name="addr" type="xs:string" />
+              <xs:element name="movies">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="movie">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="mname" type="xs:string" />
+                          <xs:element name="ratings" type="xs:string" />
+                          <xs:element name="rated" type="xs:string" />
+                          <xs:element name="showtimes">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element maxOccurs="unbounded" name="shw" type="xs:string" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movielist SYSTEM "fandango.dtd">
+<?xml-stylesheet href="fandango.css"?>
+<movielist>
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<img src="images/flogo.gif" />                                                  
+	</html>
+	<tdescrptn>
+		<tname>Movies 10</tname>
+		<addr>2609 West Henrietta Road, Rochester, NY 14623  MAP | AMENITIES</addr>
+		<movies>
+			<movie>
+				<mname>SERENITY(2019)</mname>
+				<ratings>3/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>2:50 pm </shw>
+					<shw>9:20 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>IF BEALE STREET COULD TALK </mname>
+				<ratings>4/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>1:20 pm </shw>
+					<shw>9:15 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>HOLMES AND WATSON</mname>
+				<ratings>2/5</ratings>
+				<rated>(PG-13)</rated>
+				<showtimes>
+					<shw>1:30 pm </shw>
+					<shw>5:25 pm </shw>
+					<shw>7:30 pm </shw>
+					<shw>9:40 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>MARY QUEEN OF SCOTS </mname>
+				<ratings>4/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>12:00 pm </shw>
+					<shw>4:10 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>SECOND ACT</mname>
+				<ratings>4/5</ratings>
+				<rated>(PG-13)</rated>
+				<showtimes>
+					<shw>8:10 pm </shw>
+				</showtimes>
+			</movie>
+		</movies>
+	</tdescrptn>
+	
+	<tdescrptn>
+		<tname>REGAL CULVER RIDGE PLAZA 16  </tname>
+		<addr>2255 Ridge Road East, Irondequoit, NY 14622  MAP | AMENITIES</addr>	
+			<movies>
+				<movie>
+				<mname>COLD PURSUIT</mname>
+				<ratings>3.5/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>10:20 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>THE LEGO MOVIE 2: THE SECOND PART</mname>
+				<ratings>4.5/5</ratings>
+				<rated>(PG)</rated>
+				<showtimes>
+					<shw>9:40 pm </shw>
+					<shw>10:35 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>THE PRODIGY (2019) </mname>
+				<ratings>3.5/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>9:50 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>WHAT MEN WANT  </mname>
+				<ratings>4.5/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>10:00 pm </shw>
+					<shw>10:30 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>MISS BALA (2019) </mname>
+				<ratings>4/5</ratings>
+				<rated>(PG-13)</rated>
+				<showtimes>
+					<shw>9:30 pm </shw>
+				</showtimes>
+			</movie>
+			</movies>
+	</tdescrptn>
+	
+	<tdescrptn>
+		<tname>CINEMARK TINSELTOWN USA AND IMAX® </tname>
+		<addr>525 Marketplace Drive, Rochester, NY 14623  MAP | AMENITIES</addr>	
+			<movies>
+				<movie>
+				<mname>COLD PURSUIT</mname>
+				<ratings>3.5/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>10:20 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>THE LEGO MOVIE 2: THE SECOND PART</mname>
+				<ratings>4.5/5</ratings>
+				<rated>(PG)</rated>
+				<showtimes>
+					<shw>9:40 pm </shw>
+					<shw>10:35 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>YATRA(2019)</mname>
+				<ratings>3.5/5 </ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>9:50 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>THE UPSIDE </mname>
+				<ratings>4.5/5</ratings>
+				<rated>(R)</rated>
+				<showtimes>
+					<shw>10:00 pm </shw>
+					<shw>10:30 pm </shw>
+				</showtimes>
+			</movie>
+			
+			<movie>
+				<mname>MISS BALA (2019) </mname>
+				<ratings>4/5</ratings>
+				<rated>(PG-13)</rated>
+				<showtimes>
+					<shw>9:30 pm </shw>
+				</showtimes>
+			</movie>
+			</movies>
+	</tdescrptn>
+</movielist>

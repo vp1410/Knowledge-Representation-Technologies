@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recipe.xslt"?>
+<!DOCTYPE Recipes SYSTEM "recipe.dtd">
+<Recipes>
+    <recipe>
+        <rname>Buttermilk Fried Sweet Onion Rings </rname>
+        <chef>By:Dan Eaton</chef>
+        <photo>Recipe.JPG</photo>
+        <servings>
+            <heading>Serves:</heading>
+            <count>4-6 as a side </count>
+        </servings>
+        <ingredients>
+            <heading>INGREDIENTS:</heading>
+            <component>
+            <list>2 large sweet onions (Vidalia, Texas or Mayan Sweet)</list>
+			<list>Approx. 1 quart buttermilk</list>
+			<list>4 cups vegetable oil for deep frying</list>
+			<list>1 1/2 cups all-purpose flour</list>
+			<list>1/4 cup cornmeal</list>
+			<list>1 Tbs finely minced fresh rosemary (optional but good)</list>
+			<list>Pinch salt</list>
+			<list>1/2 tsp ground cayenne</list>
+			<list>Salt to taste after frying</list>
+            </component>
+        </ingredients>
+        <instruction>
+            <procedure>PROCEDURE:</procedure>
+            <steps>
+                <step>Get started by cutting the tops and bottoms off of the onions, then peeling them and cutting them crosswise into rings about 1/2-inch thick. </step>
+                <step>Separate the slices onions into individual rings and place those into a large baking dish and add enough buttermilk to just about cover. </step>
+                <step>Let the onions soak in the buttermilk for at least 15 minutes and, while that's happening, add 4 cups of vegetable oil to a deep stainless steel pot on the stovetop and slowly bring that up to 360 degrees.</step>
+                <step>Use a bowl to combine 1 1/2 cups all-purpose flour with 1/4 cup cornmeal and 1 optional Tbs finely chopped fresh rosemary and a pinch of cayenne pepper and a pinch of salt and mix it up.</step>
+                <step>Use a deep fry thermometer to keep an eye on the temperature of the oil and also preheat the oven to 200 degrees and line a baking tray with paper towels, with a cooling rack on top, so you can keep the onion rings warm in the oven as you go.</step>
+                <step>When the oil is hot enough, dredge 5-6 onion rings at a time in the flour mixture and, once the oil does hit 360 degrees, very carefully add 1 onion ring at a time and let those fry along until they turn a nice golden brown.</step>
+                <step>You may have to adjust the heat a little bit as you're adding the onion rings so the oil stays at 360 degrees and once they're a nice golden brown, take them out of the oil and place them on the cooling rack, season with salt to taste and place the tray into the oven to keep warm as you're doing the other onion rings.</step>
+            </steps>
+        </instruction>
+        <hints>
+            <heading>Hints:</heading>
+            <content>Use the leftover buttermilk for something like cornbread or biscuits instead of tossing it out.You may need to sift the dredging flour at some point during the process or add more flour as needed.</content>
+        </hints>
+    </recipe>
+    <recipe>
+        <rname>Chicken Saltimbocca</rname>
+        <chef>By:Dan Eaton</chef>
+        <photo>r2.JPG</photo>
+        <servings>
+            <heading>Serves:</heading>
+            <count>2-4 </count>
+        </servings>
+        <ingredients>
+            <heading>INGREDIENTS:</heading>
+            <component>
+                <list>4 chicken cutlets</list>
+                <list>4 whole fresh sage leaves (plus 2-3 tsp chopped sage)</list>
+                <list>4 thin slices prosciutto (or more or less as needed)</list>
+                <list>Olive oil for sautéing chicken</list>
+                <list>1 Tbs butter</list>
+                <list>6-8 ounces sliced mushrooms</list>
+                <list>1/4 cup finely diced onion</list>
+                <list>1/2 cup Marsala wine</list>
+                <list>1/2 cup chicken stock </list>
+                <list>Salt and pepper to taste </list>
+                <list>More butter as needed to help thicken final sauce (optional) </list>
+            </component>
+        </ingredients>
+        <instruction>
+            <procedure>PROCEDURE:</procedure>
+            <steps>
+                <step>Place the chicken cutlets on top of a sheet of plastic wrap and place one fresh sage leaf of top of each one, top each one with a thin layer of prosciutto, place another sheet of plastic wrap on top and use a meat hammer or rolling pin to pound the chicken so that the prosciutto adheres.</step>
+                <step>Add a good splash of olive oil to a large heavy bottomed pan on medium high heat and, when the oil is hot; carefully add the chicken...prosciutto side down.  </step>
+                <step>Once the prosciutto has crisped up nicely, flip the chicken and keep cooking it on the second side.</step>
+                <step>Take the chicken out of the pan and let it rest on a clean plate, it doesn't need to be cooked all the way through at this point because you will finish cooking it in the sauce later on. </step>
+                <step>Add a dollop of butter to the pan and then add 6-8 ounces of sliced mushrooms and about 1/4 cup finely diced onion and 2-3 tsp fresh chopped sage and get those going.</step>
+                <step>Once the mushrooms have cooked down a bit, add 1/2 cup Marsala wine and 1/2 cup chicken stock turn the heat to high and let it cook down to a sauce consistency. </step>
+                <step>When the sauce is just about there, add the chicken back to the pan to finish cooking through and it's time to eat. </step>
+            </steps>
+        </instruction>
+        <hints>
+            <heading>Hints:</heading>
+            <content>Serve with rice or simple olive oil dress pasta. Depending on how hungry you are….you may want more than one cutlet per serving.</content>
+        </hints>
+    </recipe>
+    <recipe>
+        <rname>Chicken Biryani</rname>
+        <chef>By:Sabrina</chef>
+        <photo>cby.jpg</photo>
+        <servings>
+            <heading>Serves:</heading>
+            <count>6 servings</count>
+        </servings>
+        <ingredients>
+            <heading>INGREDIENTS:</heading>
+            <component>
+                <list>3 tablespoons olive oil or ghee if available</list>
+                <list>4 chicken thighs boneless and skinless, cut into 1" chunks</list>
+                <list>1 yellow onion cut into 1/2-inch dice</list>
+                <list>1 tablespoon garlic minced</list>
+                <list>1 tablespoon ginger minced</list>
+                <list>2 roma tomatoes grated</list>
+                <list>1/2 cup water</list>
+                <list>1 green bell pepper sliced</list>
+                <list>2 teaspoons Kosher salt </list>
+                <list>1/4 teaspoon cayenne pepper </list>
+                <list>1/2 teaspoon black pepper </list>
+                <list>2 teaspoons garam masala</list>
+                <list>1 teaspoon coriander </list>
+                <list>1/2 teaspoon ground turmeric </list>
+                <list>1 teaspoon cumin </list>
+                <list>1/2 teaspoon cinnamon</list>
+                <list>4 cups chicken broth</list>
+                <list>2 cups basmati rice rinsed and drained</list>
+            </component>
+        </ingredients>
+        <instruction>
+            <procedure>PROCEDURE:</procedure>
+            <steps>
+                <step>Add olive oil in a large dutch oven over medium-high heat.</step>
+                <step>Add the chicken and cook until browned on both sides. </step>
+                <step>Add in the onion, and cook until translucent, about 3-4 minutes.</step>
+                <step>Stir in garlic, ginger, tomatoes, and 1/2 cup water.</step>
+                <step>Bring to a simmer, and cook until the water has evaporated, about 20 minutes.</step>
+                <step>Add in the bell pepper, salt, cayenne, black pepper, garam masala, turmeric, cumin and cinnamon, stirring well. </step>
+                <step>Add in the chicken broth and bring to a boil.</step>
+                <step>Add in the basmati rice, reduce to low heat and cook (covered) for 18-20 minutes.</step>
+                <step>Turn off the heat and let sit, covered, for five minutes before opening and serving.</step>
+            </steps>
+        </instruction>
+        <hints>
+            <heading>Hints:</heading>
+            <content>It is important to keep in mind the additional moisture from the other ingredients added to this dish, such as the chicken, herbs and yogurt. Therefore, in the first step, the rice should be cooked in a way to yield a fluffy rice, but holds its shape well and is not too wet and delicate. The soaked rice should be drained well and not be too wet. The chicken should be just lightly coated with the marinade. If the marinade is excessive it can result in the rice becoming soggy.</content>
+        </hints>
+    </recipe>
+</Recipes>
+	
+		
+	
+	

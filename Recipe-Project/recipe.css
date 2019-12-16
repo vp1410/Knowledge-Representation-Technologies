@@ -1,0 +1,53 @@
+body {
+    display: grid;
+    margin: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background: white;
+	font-family:Times New Roman;
+	background-color:#fffacd;
+}
+
+.rname {
+    color: blue;
+	font-family:Times New Roman;
+	font-size:45px;
+
+}
+
+.servings{
+	
+	color:#FF5733;
+	font-family:Times New Roman;
+	font-size:20px;
+}
+
+.ingredients{
+	font-family:Times New Roman;
+	font-size:20px;
+	color:green;
+}
+
+.procedure{
+	font-family:Times New Roman;
+	font-size:20px;
+	color:red;
+}
+
+.hints{
+	font-family:Times New Roman;
+	font-size:20px;
+	color:green;
+}
+
+.steps{
+	color: red;
+}
+
+.list{
+	color: green;
+}
+
+
